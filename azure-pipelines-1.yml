@@ -14,3 +14,8 @@ steps:
 
   - script: echo "Welcome $(var1)"
     displayName: "stage-2"
+
+
+
+
+    http://44.210.136.227:8080/
